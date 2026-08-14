@@ -68,11 +68,11 @@ const products = [
     price: "PKR 145,000",
     colors: [
       {
-        code: "#8B0000", // Deep Crimson Red
+        code: "#8B0000", 
         img: "./imgs/bridalm.jpg",
       },
       {
-        code: "#D4AF37", // Metallic Gold
+        code: "#D4AF37", 
         img: "./imgs/bridalG.jpg",
       },
     ],
