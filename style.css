@@ -183,7 +183,7 @@ nav {
   color: #4b1111;
 }
 
-/* Background Variations for Slider Items (Eastern Palette) */
+
 .sliderItem:nth-child(1) .sliderBg { background-color: #c5a880; } 
 .sliderItem:nth-child(2) .sliderBg { background-color: #800020; } 
 .sliderItem:nth-child(3) .sliderBg { background-color: #0B1D3A; } 
@@ -766,7 +766,5 @@ footer {
     position: relative;
     bottom: 0;
     margin-top: 15px;         
-  }
-
-  
+  }  
 }
